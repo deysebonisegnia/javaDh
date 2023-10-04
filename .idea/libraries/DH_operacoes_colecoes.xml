@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="DH-operacoes-colecoes">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/DH-operacoes-colecoes.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DH-excecoes-personalizadas/DH-excecoes-personalizadas.iml" filepath="$PROJECT_DIR$/DH-excecoes-personalizadas/DH-excecoes-personalizadas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DH-operacoes-colecoes/DH-operacoes-colecoes.iml" filepath="$PROJECT_DIR$/DH-operacoes-colecoes/DH-operacoes-colecoes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bancoDigital/bancoDigital.iml" filepath="$PROJECT_DIR$/bancoDigital/bancoDigital.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cadeiaEmail/cadeiaEmail.iml" filepath="$PROJECT_DIR$/cadeiaEmail/cadeiaEmail.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fabrica-computador/fabrica-computador.iml" filepath="$PROJECT_DIR$/fabrica-computador/fabrica-computador.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/javaDh.iml" filepath="$PROJECT_DIR$/.idea/javaDh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/listaEncadeada/listaEncadeada.iml" filepath="$PROJECT_DIR$/listaEncadeada/listaEncadeada.iml" />
+      <module fileurl="file://$PROJECT_DIR$/medicamentos/medicamentos.iml" filepath="$PROJECT_DIR$/medicamentos/medicamentos.iml" />
+    </modules>
+  </component>
+</project>
